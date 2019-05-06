@@ -1,5 +1,5 @@
 # aubo_i5_full
-Aubo i5 robot with Robotiq 2F-85 gripper and pedestal
+Aubo i5 robot with Robotiq 2F-85 gripper and pedestal. Based on https://github.com/liuxinwust/aubo_robot and https://github.com/waypointrobotics/robotiq_85_gripper
 
 # Launch the robot with the gripper:
 - Create a ros working-space and cakin_make, install needed dependencies from the command line
