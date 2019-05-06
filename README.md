@@ -5,4 +5,4 @@ Aubo i5 robot with Robotiq 2F-85 gripper and pedestal
 - Create a ros working-space and cakin_make
 - Launch the robot in Rviz ```roslaunch aubo_description display.launch```
 
-![alt text](https://github.com/hhn1n15/aubo_i5_full/aubo.png)
+![Robot launched in Rviz](https://github.com/hhn1n15/aubo_i5_full/blob/master/image/aubo.png)
